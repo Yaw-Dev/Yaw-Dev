@@ -10,7 +10,7 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 [![Using - Git](https://img.shields.io/badge/Using-Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 #### Contact and About Me
-[![Discord - juicychann](https://img.shields.io/badge/Discord-juicychann-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discordlookup.com/user/1088472440763588690)
+[![Discord - juicychann](https://img.shields.io/badge/Discord-juicychann-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1088472440763588690)
 [![E-Z.HOST - Yaw](https://img.shields.io/badge/EZBIO-yaw-blueviolet?style=for-the-badge&logo=biolink)](https://e-z.bio/yaw)
 
 ---
