@@ -17,6 +17,6 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AWeirDKiD&show_icons=true&theme=midnight-purple)
 
-
+<!--
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AWeirDKiD)
-
+ -->
