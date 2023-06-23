@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 I'm a 17 year old dude from Greece, interested in Python and Javascript. I started my coding journey because of my curiosity about malicious software and exploits which has lead me to where I am today.
 
 ---
