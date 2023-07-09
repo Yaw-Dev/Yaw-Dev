@@ -14,10 +14,11 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 [![E-Z.HOST - Yaw](https://img.shields.io/badge/EZBIO-yaw-blueviolet?style=for-the-badge&logo=biolink)](https://e-z.bio/yaw)
 
 ---
-
+<div align="center">
+ 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AWeirDKiD&show_icons=true&theme=midnight-purple)
 
-[![My Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWeirDKiD&theme=midnight_purple)](https://github.com/AWeirDKiD)
+[![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWeirDKiD&theme=midnight_purple)](https://github.com/AWeirDKiD)
 
 <!--
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AWeirDKiD)
