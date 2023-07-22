@@ -20,6 +20,4 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 
 [![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWeirDKiD&theme=midnight_purple)](https://github.com/AWeirDKiD)
 
-<!--
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AWeirDKiD)
- -->
+[![Credly Badge](assets/python-for-data-science.png)](https://www.credly.com/badges/44e24bac-1013-49e6-a895-daa5a2b948c3/public_url)
