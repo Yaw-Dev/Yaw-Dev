@@ -7,7 +7,7 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 [![OS - Windows](https://img.shields.io/badge/OS-WINDOWS-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows/)
 [![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![IDE - Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio)](https://visualstudio.com/)
-[![VM - VMWare](https://img.shields.io/badge/VM-VMWARE-blue?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![VM - Virtualbox](https://img.shields.io/badge/VM-Virtualbox-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.vmware.com/)
 [![Using - Git](https://img.shields.io/badge/Using-Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 #### Contact and About Me
