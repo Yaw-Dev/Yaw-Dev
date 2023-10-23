@@ -17,8 +17,8 @@ I'm a 17 year old dude from Greece, interested in Python and Javascript. I start
 ---
 <div align="center">
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AWeirDKiD&show_icons=true&theme=midnight-purple)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yaw-Dev&show_icons=true&theme=midnight-purple)
 
-[![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AWeirDKiD&theme=midnight_purple)](https://github.com/AWeirDKiD)
+[![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaw-Dev&theme=midnight_purple)](https://github.com/AWeirDKiD)
 
 [![Credly Badge](assets/python-for-data-science.png)](https://www.credly.com/badges/44e24bac-1013-49e6-a895-daa5a2b948c3/public_url)
