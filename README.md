@@ -8,7 +8,6 @@ I'm Nikos, a 17 year old dude from Greece.
 #### Tools and Software
 [![OS - Windows](https://img.shields.io/badge/OS-WINDOWS-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows/)
 [![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Editor - Fleet](https://img.shields.io/badge/Editor%202-Fleet-deepskyblue?style=for-the-badge&logo=jetbrains)](https://www.jetbrains.com/fleet/)
 [![IDE - Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio)](https://visualstudio.com/)
 [![VM - Virtualbox](https://img.shields.io/badge/VM-Virtualbox-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![Using - Git](https://img.shields.io/badge/Using-Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
