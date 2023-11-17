@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Nikos, a 17 year old dude from Greece.
 - Interested in Python and Javascript.
-- Curious about malicious software.
+- Cyber security enthusiast.
 
 ---
 
