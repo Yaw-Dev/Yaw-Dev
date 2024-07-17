@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Nikos, a 17 year old dude from Greece.
-- Learning Python & Javascript
-- Interested in C and C++
+I'm Nikos, an 18 year old dude from Greece.
+- Learning Python & C#
+- Interested in Javascript
 
 ---
 
