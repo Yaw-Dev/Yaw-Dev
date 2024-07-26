@@ -3,6 +3,8 @@ I'm Nikos, an 18 year old dude from Greece.
 - Learning Python & C#
 - Interested in Javascript
 
+#### Studying @ The University of Thessaly
+
 ---
 
 #### Tools and Software
@@ -13,7 +15,6 @@ I'm Nikos, an 18 year old dude from Greece.
 [![Using - Git](https://img.shields.io/badge/Using-Git-red?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 #### Contact and About Me
-[![Discord - Yaw](https://img.shields.io/badge/Discord-juicyyaw-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1163799526507819009)
 [![E-Z.HOST - Yaw](https://img.shields.io/badge/EZBIO-yaw-2563eb?style=for-the-badge&logo=biolink)](https://e-z.bio/yaw)
 
 ---
