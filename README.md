@@ -3,7 +3,7 @@ I'm Nikos, an 18 year old dude from Greece.
 - Learning Python & C#
 - Interested in Javascript
 
-#### Studying @ The University of Thessaly
+**Studying @ The University of Thessaly**
 
 ---
 
