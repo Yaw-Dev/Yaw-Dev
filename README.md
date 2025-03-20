@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Nikos, an 18 year old dude from Greece.
-- Learning C & Python
-- Interested in Javascript & C#
+- Mostly experienced in Python but also worked with C, Java, Javascript & Lua.
+- Interested in Web Automation and Cyber Security.
 
 **💻 Studying @ The University of Thessaly (UTH)**
 
