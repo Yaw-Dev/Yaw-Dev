@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nikos, an 18 year old dude from Greece.
+I'm Nikos, a 19 year old dude from Greece.
 - Mostly experienced in **Python** but also worked with **C**, **Java**, **Javascript** & **Lua**.
 - Interested in Web Automation and Cyber Security.
 
