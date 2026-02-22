@@ -19,8 +19,6 @@ I'm Nikos, a 19 year old dude from Greece.
 
 ---
 <div align="center">
- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Yaw-Dev&show_icons=true&theme=midnight-purple)
 
 [![Github Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaw-Dev&theme=midnight_purple)](https://github.com/AWeirDKiD)
 
